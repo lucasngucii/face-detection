@@ -1,0 +1,2 @@
+start_time,end_time,total_duration,state_percentages,transitions,attention_history
+2025-04-05 09:40:07,2025-04-05 09:40:07,0.742527,{'Vắng mặt': 99.99340091336745},0,"[{'timestamp': '2025-04-05 09:40:07', 'state': 'Vắng mặt', 'duration': 0, 'confidence': 1.0}, {'timestamp': '2025-04-05 09:40:07', 'state': 'Vắng mặt', 'duration': 0.742478, 'confidence': 1.0}]"

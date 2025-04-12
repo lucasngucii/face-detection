@@ -1,0 +1,23 @@
+{
+    "start_time": "2025-04-05 09:40:07",
+    "end_time": "2025-04-05 09:40:07",
+    "total_duration": 0.742527,
+    "state_percentages": {
+        "V\u1eafng m\u1eb7t": 99.99340091336745
+    },
+    "transitions": 0,
+    "attention_history": [
+        {
+            "timestamp": "2025-04-05 09:40:07",
+            "state": "V\u1eafng m\u1eb7t",
+            "duration": 0,
+            "confidence": 1.0
+        },
+        {
+            "timestamp": "2025-04-05 09:40:07",
+            "state": "V\u1eafng m\u1eb7t",
+            "duration": 0.742478,
+            "confidence": 1.0
+        }
+    ]
+}
