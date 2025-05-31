@@ -10,13 +10,6 @@ The system comprises five core components:
 4. **AttentionClassifier**: Trains machine learning models (Random Forest, SVM, Neural Network) with hyperparameter optimization.
 5. **AttentionMonitoringSystem**: Integrates all components for frame processing, state tracking, and reporting.
 
-The `main.py` script provides a pipeline (`create_complete_pipeline`) that orchestrates data loading, model training, system evaluation, and real-time webcam monitoring.
-
-### Sequence Diagram
-Below is the sequence diagram illustrating the workflow of the `create_complete_pipeline` function:
-
-![Sequence Diagram](docs/sequence_diagram.png)
-
 ## Dependencies
 The system requires the following Python packages:
 - `opencv-python`
