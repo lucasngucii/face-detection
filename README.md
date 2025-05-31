@@ -57,7 +57,7 @@ Detailed documentation for each component is available in PDF format under the `
 - [WIDER FACE](http://shuoyang1213.me/WIDERFACE/) for the dataset.
 - [MediaPipe](https://mediapipe.dev/) and [facenet-pytorch](https://github.com/timesler/facenet-pytorch) for face detection and feature extraction.
 - [scikit-learn](https://scikit-learn.org/) for machine learning models.
-- Developed by [Your Name/Organization] for attention monitoring research.
+- Developed by `Lucas Aleh` for attention monitoring research.
 
 ---
 *For issues or questions, open an issue on GitHub or contact [lucasalehwork@gmail.com].*
